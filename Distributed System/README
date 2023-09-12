@@ -1,0 +1,6 @@
+to run the tests run the makefile then run the following programs and verify their output with the server running. Make sure to restart the server between runs.
+
+app1
+app2a / app2b
+app3
+app4
